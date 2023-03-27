@@ -1,2 +1,2 @@
-# ReactAntd
-React+ Antd（阿里组件库）
+# React+ Antd
+BEAT的前端实现
